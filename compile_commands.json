@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/nvidia/Documents/DepthCamera",
+  "command": "/usr/bin/c++ -DELPP_NO_DEFAULT_LOG_FILE -I/usr/local/cuda/include -I/usr/include/x86_64-linux-gnu -isystem /usr/local/include/opencv4 -g -std=gnu++20 -o CMakeFiles/main.dir/main.cc.o -c /home/nvidia/Documents/DepthCamera/main.cc",
+  "file": "/home/nvidia/Documents/DepthCamera/main.cc"
+},
+{
+  "directory": "/home/nvidia/Documents/DepthCamera",
+  "command": "/usr/bin/c++ -DELPP_NO_DEFAULT_LOG_FILE -I/usr/local/cuda/include -I/usr/include/x86_64-linux-gnu -isystem /usr/local/include/opencv4 -g -std=gnu++20 -o CMakeFiles/frame_logger.dir/frame_logger.cc.o -c /home/nvidia/Documents/DepthCamera/frame_logger.cc",
+  "file": "/home/nvidia/Documents/DepthCamera/frame_logger.cc"
+}
+]
