@@ -1,0 +1,4 @@
+/home/nvidia/Documents/DepthCamera/CMakeFiles/main.dir
+/home/nvidia/Documents/DepthCamera/CMakeFiles/frame_logger.dir
+/home/nvidia/Documents/DepthCamera/CMakeFiles/edit_cache.dir
+/home/nvidia/Documents/DepthCamera/CMakeFiles/rebuild_cache.dir
